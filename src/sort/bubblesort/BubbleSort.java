@@ -3,7 +3,10 @@ package sort.bubblesort;
 import java.util.Arrays;
 import java.util.Random;
 
-//冒泡排序
+/**
+ * 冒泡排序
+ * 最好O(n)  最坏O(n^2) 平均 O(n^2)  空间O(1) 稳定
+ */
 public class BubbleSort {
 
     public static void main(String[] args) {
